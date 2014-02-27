@@ -1,2 +1,2 @@
-mvn-repo
+repository used as a staging mvn repository
 ========
