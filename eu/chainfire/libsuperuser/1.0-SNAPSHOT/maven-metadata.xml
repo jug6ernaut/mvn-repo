@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>eu.chainfire</groupId>
+  <artifactId>libsuperuser</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140227.012844</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20140227012844</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0-20140227.012844-4</value>
+        <updated>20140227012844</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20140227.012844-4</value>
+        <updated>20140227012844</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
